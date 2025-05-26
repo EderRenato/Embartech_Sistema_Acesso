@@ -217,7 +217,7 @@ void vDisplayTask(void *pvParameters) {
                 ssd1306_fill(&ssd, false);
                 
                 // Título
-                ssd1306_draw_string(&ssd, "CONTROLE DE ACESSO", 0, 5);
+                ssd1306_draw_string(&ssd, "CTRL DE ACESSO", 0, 5);
                 
                 // Contagem de usuários
                 char userStr[32];
