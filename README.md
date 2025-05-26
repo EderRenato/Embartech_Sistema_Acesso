@@ -1,7 +1,7 @@
 # **AccessGuard - Sistema de Controle de Acesso com FreeRTOS**  
 
-[![GitHub](https://img.shields.io/badge/license-MIT-blue)](LICENSE)]
-[[!FreeRTOS](https://img.shields.io/badge/FreeRTOS-v10.4.3-green)]
+[![GitHub](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-v10.4.3-green)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico-red)
 [![Google Drive](https://img.shields.io/badge/Demo-Google%20Drive-blue?logo=google-drive)](https://drive.google.com/file/d/1g9TPC9uLPvH81IrUvNcO_eSAk6k5pv5d/view?usp=sharing)
 
